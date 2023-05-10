@@ -5,7 +5,7 @@ import Navigation from "../Shared/Navigation";
 
 const Main = () => {
     return (
-        <div>
+        <div className="container mx-auto px-[80px]">
             <Navigation></Navigation>
             <Header></Header>
             <div>
